@@ -1,3 +1,6 @@
+//Bibliotecas
+import java.util.Array;
+
 //Classe
 public class Array{
 
